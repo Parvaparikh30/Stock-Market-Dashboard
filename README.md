@@ -36,7 +36,8 @@ Required library-
 ->Happy Trading
 
 
-**Some Glimpses of this project **
+**Some Glimpses of this project**
+
 ![1](https://user-images.githubusercontent.com/58827015/129670253-41ab6708-e612-4fa5-8e7d-cd521335113e.JPG)
 
 
