@@ -8,14 +8,13 @@ access_token_secret= ''
 
 TWITTER_USERNAMES = [
         "YahooFinance",
-            "CNBC",
-                "moneycontrolcom",
-    "livemint",
-    "EconomicTimes",
-
-    'Reutersindia',
-    "FinancialTimes",
-    "NDTVProfit",
-    "WIONews"
+        "CNBC",
+        "moneycontrolcom",
+        "livemint",
+        "EconomicTimes",
+        'Reutersindia',
+        "FinancialTimes",
+        "NDTVProfit",
+        "WIONews"
 
 ]
