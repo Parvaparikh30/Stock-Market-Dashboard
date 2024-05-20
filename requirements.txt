@@ -1,1 +1,14 @@
-
+pandas_datareader
+streamlit
+pandas
+PIL
+numpy
+datetime
+plotly
+matplotlib.pyplot
+sklearn
+itertools
+keras
+tweepy
+prophet
+yfinance
